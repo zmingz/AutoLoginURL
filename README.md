@@ -4,8 +4,8 @@
 
 提示说明
 ----
-* 本程序运行环境须要提前安装firefox浏览器和geckodriver.exe,并把geckodriver.exe添加到环境变量PATH中；
-* python还需安装selenium、tesseract-ocr、PIL等库，tesseract-ocr的路径添加到环境变量PATH中；
+* 本程序运行环境须要提前安装`firefox`浏览器和下载`geckodriver.exe`,并把geckodriver.exe所在路径添加到环境变量PATH中；
+* python还需安装`selenium`、`tesseract-ocr`、`PIL`等库，tesseract-ocr的路径添加到环境变量PATH中；
 * 需要提前对tesseract-ocr进行训练才能对验证码有较高的识别正确率。
 
 程序运行流程
